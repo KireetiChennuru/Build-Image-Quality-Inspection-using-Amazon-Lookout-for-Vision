@@ -3,7 +3,7 @@
 Project Report: Automated Image Quality Inspection using Amazon Lookout for Vision
 
 Introduction:
-The project aimed to automate image quality inspection processes using Amazon Lookout for Vision, a machine learning service that detects anomalies and inspects images for quality control purposes. The project involved building a pipeline for automated image analysis and quality inspection.
+-The project aimed to automate image quality inspection processes using Amazon Lookout for Vision, a machine learning service that detects anomalies and inspects images for quality control purposes. The project involved building a pipeline for automated image analysis and quality inspection.
 
 Project Objectives:
 1. Implement image quality inspection pipeline
