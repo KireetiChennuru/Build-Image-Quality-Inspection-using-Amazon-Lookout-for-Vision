@@ -14,18 +14,24 @@ Project Objectives:
 
 Project Structure:
 
-* Introduction to Amazon Lookout for Vision
- - Overview of the service and its applications in quality control and image inspection.
-* Data Preparation
- - Preprocessing of image data to ensure compatibility with Amazon Lookout for Vision.
-* Model Training
- - Training machine learning models using Amazon Lookout for Vision to recognize image defects and anomalies.
-* Deployment
- - Deployment of the automated inspection system in a production environment.
-* Testing and Evaluation
- - Testing the system with sample data and evaluating its performance.
-* Documentation and Reporting
- - Compilation of project findings, results, and insights into a comprehensive report.
+1. Introduction to Amazon Lookout for Vision
+   <br>
+   Overview of the service and its applications in quality control and image inspection.
+3. Data Preparation
+   <br>
+   Preprocessing of image data to ensure compatibility with Amazon Lookout for Vision.
+4. Model Training
+   <br>
+   Training machine learning models using Amazon Lookout for Vision to recognize image defects and anomalies.
+6. Deployment
+   <br>
+   Deployment of the automated inspection system in a production environment.
+7. Testing and Evaluation
+   <br>
+   Testing the system with sample data and evaluating its performance.
+8. Documentation and Reporting
+   <br>
+   Compilation of project findings, results, and insights into a comprehensive report.
 
 Conclusion:
 <br>
